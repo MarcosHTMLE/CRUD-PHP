@@ -1,0 +1,102 @@
+.cabecalho{
+	background-color: #000;
+	height: 5em;	
+}
+
+.cabecalho img{
+	width:40px;
+	padding-top:12px;
+	margin-left:3em;
+}
+
+.titulo_cabecalho h1{
+	padding-top:6px;
+	color: #fff;
+}
+
+.titulo_cabecalho {
+	background-color: #000;
+}
+
+.formulario{
+	padding-top:2em;
+}
+
+.formulario{
+	height:100%;
+	
+}
+
+.lista{
+	border: 1px solid #000;
+	border-top:none;
+	border-bottom:none;
+	
+}
+
+form {
+	
+	margin-left:1em;
+}
+
+.lista_usuarios{
+	padding-top:4em;
+}
+
+.btn_cadastrar{
+	margin-top:1em;
+}
+.cabecalho_itens h1{
+	color:#fff;
+
+}
+
+.teste{
+	padding-top:20px;
+}
+
+@keyframes sucesso {
+	0%   {background-color:green; left:0px; top:0px;}
+	25%  {background-color:green; left:50px; top:0px; color:#fff;}
+	
+	
+  }
+  
+  @keyframes example2 {
+	0%   {background-color:red; left:0px; top:0px;}
+	25%  {background-color:red; left:50px; top:0px; color:#fff;}
+	
+	
+  }
+
+
+  .sucesso{
+	width:15em;
+	border-radius: 4%;
+	padding:4px;
+	background-color: #fff;
+	color:#fff;
+	animation-name: sucesso;
+	animation-duration: 2s;
+
+
+
+	
+  }
+
+  .erro{
+	width:15em;
+	border-radius: 4%;
+	padding:4px;
+	background-color: #fff;
+	color:#fff;
+	animation-name: sucesso;
+	animation-duration: 2s;
+
+
+
+	
+  }
+
+
+  
